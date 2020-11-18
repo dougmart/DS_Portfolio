@@ -23,7 +23,7 @@
 
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/Kmeans_fig.png)
 
-## Project 5: Picking List
+## Project 5: Picking List Algorithm
 * Created
 * Bullet 2
 
