@@ -35,6 +35,8 @@
 * Created
 * Bullet 2
 
+![](https://github.com/dougmart/DS_Portfolio/blob/main/images/SurgeryPlanner.png)
+
 ## Project 7: Picking List Algorithm
 * Created
 * Bullet 2
