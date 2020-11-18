@@ -23,15 +23,17 @@
 
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/Kmeans_fig.png)
 
-## Project 5: Picking List Algorithm
+## [Project 5: Route Optimizer](https://github.com/dougmart/RouteOptimizerMILP)
 * Created
 * Bullet 2
+
+![](https://github.com/dougmart/DS_Portfolio/blob/main/images/RoutingJulia.png)
 
 ## Project 6: Surgery Sequencer
 * Created
 * Bullet 2
 
-## Project 7: Route Optimizer
+## Project 7: Picking List Algorithm
 * Created
 * Bullet 2
 
