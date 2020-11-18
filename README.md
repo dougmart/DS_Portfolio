@@ -28,27 +28,17 @@
 * Used KMeans to cluster the addresses based on distance
 * Used Mixed-Integer Linear Programming to solve the optimization problem
 * Could find an optimal solution for small datasets in less than 30 seconds
+* Prog. Language: Julia
 
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/RoutingJulia.png)
 
-## Project 6: Surgery Sequencer
-* Created
-* Bullet 2
+## [Project 6: Surgery Sequencer](https://github.com/dougmart/SurgerySeq)
+* Designed an algorithm to sequence surgeries on different surgery rooms based on their priority and resource needs
+* Used Pandas to explore all possibilities on the library
+* Three methods for priorities: Shortest Surgery First, Longest Surgery First and Surgery Priority
 
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/SurgeryPlanner.png)
 
 ## Project 7: Picking List Algorithm
-* Created
-* Bullet 2
-
-## Project 8:
-* Created
-* Bullet 2
-
-## Project 9:
-* Created
-* Bullet 2
-
-## Project 10:
 * Created
 * Bullet 2
