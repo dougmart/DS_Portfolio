@@ -24,8 +24,10 @@
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/Kmeans_fig.png)
 
 ## [Project 5: Route Optimizer](https://github.com/dougmart/RouteOptimizerMILP)
-* Created
-* Bullet 2
+* Created an optimizer to be used on routing of small datasets
+* Used KMeans to cluster the addresses based on distance
+* Used Mixed-Integer Linear Programming to solve the optimization problem
+* Could find an optimal solution for small datasets in less than 30 seconds
 
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/RoutingJulia.png)
 
