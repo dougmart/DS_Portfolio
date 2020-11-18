@@ -13,9 +13,10 @@
 * Time series analysis to have some insights of how is the behavior of the product's demand
 * Forecasting of how the demand should be the next month
 
-# Project 4: Clustering Customers vs Sales Representatives
+# [Project 4: Clustering Customers vs Sales Representatives](https://github.com/dougmart/CustomerClusteringDan)
 * Cluster the customers into smaller groups so they can be better divided into the group of sales representatives
 * Used Elbow Method to decide the best number of clusters
+![](https://github.com/dougmart/DS_Portfolio/blob/main/images/Kmeans_fig.png)
 
 # Project 5: Picking List
 * Created
