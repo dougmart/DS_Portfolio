@@ -19,6 +19,7 @@
 ## [Project 4: Clustering Customers vs Sales Representatives](https://github.com/dougmart/CustomerClusteringDan)
 * Cluster the customers into smaller groups so they can be better divided into the group of sales representatives
 * Used Elbow Method to decide the best number of clusters
+* Used the analysis' result as input to route scheduling
 
 ![](https://github.com/dougmart/DS_Portfolio/blob/main/images/Kmeans_fig.png)
 
