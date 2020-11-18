@@ -29,7 +29,7 @@
 * Used Mixed-Integer Linear Programming to solve the optimization problem
 * Could find an optimal solution for small datasets in less than 30 seconds
 
-![](https://github.com/dougmart/DS_Portfolio/blob/main/images/RoutingJulia.png)
+![](https://github.com/dougmart/DS_Portfolio/blob/main/images/RoutingJulia.png){:height="50%" width="50%"}
 
 ## Project 6: Surgery Sequencer
 * Created
