@@ -6,8 +6,9 @@
 ## [Project 2: Filmow Analysis and Prediction](https://github.com/dougmart/FilmowPredict)
 * Created a tool that estimates what rate the person should give to a random movie based on the ratings he/she already gave to other movies
 * Scrapped the movies the person already saw and rated
-* Data analysis to have insights of the user preferences (under construction)
-* Prediction of what rate the user will give to a new movie (under construction)
+* Data analysis to have insights of user preferences
+* Prediction of what rate the user will give to a new movie
+* Tunning of the selected methods to get the best result using searchGridCV
 
 ## [Project 3: Demand Analysis and Forecasting](https://github.com/dougmart/ProductDemandAnalyForec)
 * Collected from SQL Database the demand of a specific product (1 year history data)
