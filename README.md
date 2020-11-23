@@ -10,6 +10,8 @@
 * Prediction of what rate the user will give to a new movie
 * Tunning of the selected methods to get the best result using searchGridCV
 
+![](https://github.com/dougmart/DS_Portfolio/blob/main/images/filmow.png)
+
 ## [Project 3: Demand Analysis and Forecasting](https://github.com/dougmart/ProductDemandAnalyForec)
 * Collected from SQL Database the demand of a specific product (1 year history data)
 * Time series analysis to have some insights of how is the behavior of the product's demand
