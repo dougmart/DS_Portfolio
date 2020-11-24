@@ -2,6 +2,11 @@
 
 ## [Project 1: Uber Trips 2016](https://github.com/dougmart/Uber_2016_OrdUser)
 * Data analysis of uber trips made by an ordinary user on year 2016
+* Cleaning on the data eliminating rows/info that may be incorrect
+* Extracted the main purpose of the trips and sort by number and mean
+* Main part of the day the user uses Uber
+
+![](https://github.com/dougmart/DS_Portfolio/blob/main/images/uberTrips.png)
 
 ## [Project 2: Filmow Analysis and Prediction](https://github.com/dougmart/FilmowPredict)
 * Created a tool that estimates what rate the person should give to a random movie based on the ratings he/she already gave to other movies
